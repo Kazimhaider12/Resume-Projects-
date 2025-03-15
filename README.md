@@ -2,6 +2,7 @@
 
 Created an amazing dashboard about the Imtiaz Store.
 
+
 1. Dashboard Overview:
 Home, Customer, HR, Inventory, Sales, Other 
 2. Details:
